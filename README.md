@@ -2,10 +2,10 @@
 
 **Hi, I’m Clyde Wawire**
 
-I’m a Data Analyst based in Nairobi, working at the intersection of **operational performance, workforce analytics, and business decision-making**.
+I analyze operational data to understand what’s working, what’s not, and where performance can be improved.**.
 
-I focus on one core question:  
-**Where are we losing time, efficiency, or money—and how do we fix it?**
+A lot of my work comes down to answering a simple question: 
+**what’s actually driving the results we’re seeing? **
 
 Most of my work involves turning messy, real-world data into **clear, actionable insights** that teams can actually use.
 
