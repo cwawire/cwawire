@@ -2,7 +2,7 @@
 
 **Hi, I’m Clyde Wawire**
 
-I analyze operational data to understand what’s working, what’s not, and where performance can be improved.**.
+I analyze operational data to understand what’s working, what’s not, and where performance can be improved.
 
 A lot of my work comes down to answering a simple question: 
 **what’s actually driving the results we’re seeing? **
